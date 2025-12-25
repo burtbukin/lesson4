@@ -17,11 +17,3 @@ const ageChecker = (user) => {
 for (const user of users) {
     ageChecker(user)
 }
-
-
-// Конвертер валют
-
-
-
-
-// Фмльтр взрослых
